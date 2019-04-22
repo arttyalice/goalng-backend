@@ -1,0 +1,32 @@
+{
+    "production": {
+        "jwt": {
+            "secret": "?",
+            "lifetime": "?"
+        },
+        "passwordSalt": "?",
+        "tokenSalt": "?",
+        "staticDirectory": "?",
+        "apiVersion": "?"
+    },
+    "development": {
+        "jwt": {
+            "secret": "?",
+            "lifetime": "?"
+        },
+        "passwordSalt": "?",
+        "tokenSalt": "?",
+        "staticDirectory": "?",
+        "apiVersion": "?"
+    },
+    "default": {
+        "jwt": {
+            "secret": "?",
+            "lifetime": "?"
+        },
+        "passwordSalt": "?",
+        "tokenSalt": "?",
+        "staticDirectory": "?",
+        "apiVersion": "?"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "production": {
+        "username": "?",
+        "password": "?",
+        "database": "?",
+        "ip": "?",
+        "port": "?"
+    },
+    "development": {
+        "username": "?",
+        "password": "?",
+        "database": "?",
+        "ip": "?",
+        "port": "?"
+    },
+    "default": {
+        "username": "?",
+        "password": "?",
+        "database": "?",
+        "ip": "?",
+        "port": "?"
+    }
+}
